@@ -1,1 +1,1 @@
-folder to store all processed CVS data files
+folder to store all processed .csv data files
